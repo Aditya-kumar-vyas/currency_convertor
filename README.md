@@ -1,6 +1,6 @@
 # currency_convertor
 
-A new Flutter project.
+A new Flutter project based on simple state management .
 
 ## Getting Started
 
